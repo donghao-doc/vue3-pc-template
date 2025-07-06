@@ -1,3 +1,6 @@
+// 跨浏览器样式重置
+import 'normalize.css'
+
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 
